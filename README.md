@@ -92,7 +92,6 @@ Go Dawa bridges the gap between pharmacies and pharmaceutical suppliers/warehous
 |---|---|
 | **Package Name** | `com.example.godawa_app` |
 | **Current Version** | 1.0.0 (Build 1) |
-| **API Base URL** | `https://instadawa11.azurewebsites.net` |
 | **Min Android SDK** | 21+ (with Flutter defaults) |
 | **Min iOS Version** | 13.0 |
 | **Primary Markets** | Middle East (Arabic-first) |
